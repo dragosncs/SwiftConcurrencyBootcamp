@@ -14,6 +14,7 @@
 		87DB7C8B2AF901D900B4CF69 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C8A2AF901D900B4CF69 /* DownloadImageAsync.swift */; };
 		87DB7C8D2AF920FE00B4CF69 /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C8C2AF920FE00B4CF69 /* AsyncAwait.swift */; };
 		87DB7C912AF935FD00B4CF69 /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */; };
+		87DB7C932AF9539D00B4CF69 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		87DB7C8A2AF901D900B4CF69 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		87DB7C8C2AF920FE00B4CF69 /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
+		87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				87DB7C8A2AF901D900B4CF69 /* DownloadImageAsync.swift */,
 				87DB7C8C2AF920FE00B4CF69 /* AsyncAwait.swift */,
 				87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */,
+				87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */,
 				87DB7C802AF8EC5700B4CF69 /* Assets.xcassets */,
 				87DB7C822AF8EC5700B4CF69 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87DB7C932AF9539D00B4CF69 /* AsyncLet.swift in Sources */,
 				87DB7C912AF935FD00B4CF69 /* TaskBootCamp.swift in Sources */,
 				87DB7C7F2AF8EC5500B4CF69 /* DoCatchTry.swift in Sources */,
 				87DB7C8B2AF901D900B4CF69 /* DownloadImageAsync.swift in Sources */,
