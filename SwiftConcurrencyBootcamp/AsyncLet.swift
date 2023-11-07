@@ -33,8 +33,7 @@ struct AsyncLet: View {
                         async let fetchTitle1 = fetchTitle()
                         
                         let (image, title) = await (try fetchImage1, fetchTitle1)
-                        
-                        
+
                         
 //
 //                        async let fetchImage1 = fetchImage()

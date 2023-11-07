@@ -16,6 +16,7 @@
 		87DB7C912AF935FD00B4CF69 /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */; };
 		87DB7C932AF9539D00B4CF69 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */; };
 		87DB7C952AF968D400B4CF69 /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C942AF968D400B4CF69 /* TaskGroupBootcamp.swift */; };
+		87DB7C972AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C962AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 		87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		87DB7C942AF968D400B4CF69 /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
+		87DB7C962AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckContinuationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				87DB7C902AF935FD00B4CF69 /* TaskBootCamp.swift */,
 				87DB7C922AF9539D00B4CF69 /* AsyncLet.swift */,
 				87DB7C942AF968D400B4CF69 /* TaskGroupBootcamp.swift */,
+				87DB7C962AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift */,
 				87DB7C802AF8EC5700B4CF69 /* Assets.xcassets */,
 				87DB7C822AF8EC5700B4CF69 /* Preview Content */,
 			);
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87DB7C972AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift in Sources */,
 				87DB7C932AF9539D00B4CF69 /* AsyncLet.swift in Sources */,
 				87DB7C912AF935FD00B4CF69 /* TaskBootCamp.swift in Sources */,
 				87DB7C7F2AF8EC5500B4CF69 /* DoCatchTry.swift in Sources */,
