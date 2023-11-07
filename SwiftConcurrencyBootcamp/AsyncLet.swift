@@ -25,7 +25,7 @@ struct AsyncLet: View {
                     }
                 }
             }
-            .navigationTitle("Async Let 🥳")
+            .navigationTitle("Async Let")
             .onAppear{
                 Task {
                     do{
