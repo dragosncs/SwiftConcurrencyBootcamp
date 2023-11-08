@@ -20,6 +20,9 @@
 		87DB7C992AFA4F2E00B4CF69 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C982AFA4F2E00B4CF69 /* StructClassActorBootcamp.swift */; };
 		87DB7C9B2AFBB6FE00B4CF69 /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C9A2AFBB6FE00B4CF69 /* ActorsBootcamp.swift */; };
 		87DB7C9D2AFBC86F00B4CF69 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C9C2AFBC86F00B4CF69 /* GlobalActorBootcamp.swift */; };
+		87DB7C9F2AFBCFCD00B4CF69 /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7C9E2AFBCFCD00B4CF69 /* SendableBootcamp.swift */; };
+		87DB7CA12AFBDABA00B4CF69 /* AsyncPublisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7CA02AFBDABA00B4CF69 /* AsyncPublisher.swift */; };
+		87DB7CA32AFBDEFB00B4CF69 /* StrongSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB7CA22AFBDEFB00B4CF69 /* StrongSelfBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		87DB7C982AFA4F2E00B4CF69 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		87DB7C9A2AFBB6FE00B4CF69 /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		87DB7C9C2AFBC86F00B4CF69 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
+		87DB7C9E2AFBCFCD00B4CF69 /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
+		87DB7CA02AFBDABA00B4CF69 /* AsyncPublisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisher.swift; sourceTree = "<group>"; };
+		87DB7CA22AFBDEFB00B4CF69 /* StrongSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongSelfBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,9 @@
 				87DB7C982AFA4F2E00B4CF69 /* StructClassActorBootcamp.swift */,
 				87DB7C9A2AFBB6FE00B4CF69 /* ActorsBootcamp.swift */,
 				87DB7C9C2AFBC86F00B4CF69 /* GlobalActorBootcamp.swift */,
+				87DB7C9E2AFBCFCD00B4CF69 /* SendableBootcamp.swift */,
+				87DB7CA02AFBDABA00B4CF69 /* AsyncPublisher.swift */,
+				87DB7CA22AFBDEFB00B4CF69 /* StrongSelfBootcamp.swift */,
 				87DB7C802AF8EC5700B4CF69 /* Assets.xcassets */,
 				87DB7C822AF8EC5700B4CF69 /* Preview Content */,
 			);
@@ -167,13 +176,16 @@
 				87DB7C972AFA44EB00B4CF69 /* CheckContinuationBootcamp.swift in Sources */,
 				87DB7C932AF9539D00B4CF69 /* AsyncLet.swift in Sources */,
 				87DB7C9B2AFBB6FE00B4CF69 /* ActorsBootcamp.swift in Sources */,
+				87DB7CA32AFBDEFB00B4CF69 /* StrongSelfBootcamp.swift in Sources */,
 				87DB7C992AFA4F2E00B4CF69 /* StructClassActorBootcamp.swift in Sources */,
 				87DB7C912AF935FD00B4CF69 /* TaskBootCamp.swift in Sources */,
 				87DB7C7F2AF8EC5500B4CF69 /* DoCatchTry.swift in Sources */,
 				87DB7C8B2AF901D900B4CF69 /* DownloadImageAsync.swift in Sources */,
 				87DB7C952AF968D400B4CF69 /* TaskGroupBootcamp.swift in Sources */,
+				87DB7C9F2AFBCFCD00B4CF69 /* SendableBootcamp.swift in Sources */,
 				87DB7C7D2AF8EC5500B4CF69 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				87DB7C9D2AFBC86F00B4CF69 /* GlobalActorBootcamp.swift in Sources */,
+				87DB7CA12AFBDABA00B4CF69 /* AsyncPublisher.swift in Sources */,
 				87DB7C8D2AF920FE00B4CF69 /* AsyncAwait.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
